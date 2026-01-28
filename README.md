@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF755&random=false&width=435&lines=Full+Stack+Developer;4%2B+years+of+experience+in+the+area;Contact+me+in+discord+for+more+info" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/bungeees">bungeees</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/dezoww">Dezow</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
